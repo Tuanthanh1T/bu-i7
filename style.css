@@ -11,21 +11,26 @@ body{
 
 #head{
     height: 300px;
-    background-image: url(./Screenshot\ 2023-12-20\ 192834.png)  ;
+    background-image: url(./merry.webp)  ;
     margin-bottom: 5px;
     
-    
+}
+
+a{
+    text-decoration: none;
 }
 
 #head-link{
     height: 50px;
-    background-color: rgb(228, 228, 228);
+    background-color: rgb(184, 169, 169);
     margin-bottom: 5px;
+    text-decoration: none;
+
 }
 
 #left{
     width: 250px;
-    background-image: url(./160923_cay_thong_chuyen_hoa.jpg);
+    background-image: url(./caythong.jpg);
     background-size: 100%;
     background-repeat: no-repeat;
     float: left;
@@ -48,11 +53,13 @@ body{
     min-height: 400px;
     border: 1px solid #ff2020;
     float: right;
+    text-decoration: none;
 }
 #footer{
     height: 50px;
     clear: both;
-    border: 1px solid #110707;
+    border: 1px solid #000000;
     background-color: #d0d0da;
+    text-align: center;
 }
 
